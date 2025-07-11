@@ -1,3 +1,6 @@
+![Excel Dashboard Screenshot](sales dashboard.png)
+
+
 ## 📊 Excel Sales Dashboard
 
 This project is a beginner-friendly Excel dashboard that visualizes sales data using PivotTables and charts.
