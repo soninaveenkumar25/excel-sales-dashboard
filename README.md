@@ -1,4 +1,4 @@
-![Excel Dashboard Screenshot](sales dashboard.png)
+![Excel Dashboard Screenshot](sales dashboard.png.png)
 
 
 ## 📊 Excel Sales Dashboard
